@@ -1,2 +1,9 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "partials/variables";
+@import "partials/mixins";
+@import "partials/base";
+@import "partials/typography";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/debug";
